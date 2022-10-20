@@ -32,7 +32,7 @@ Transport Layer Security (TLS) is a cryptographic protocol designed to provide c
 The TLS protocol aims primarily to provide security, including privacy (confidentiality), integrity, and authenticity through the use of cryptography, such as the use of certificates, between two or more communicating computer applications. It runs in the application layer and is itself composed of two layers: the TLS record and the TLS handshake protocols.
 
 ### Firewall
-A firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.[1][2] A firewall typically establishes a barrier between a trusted network and an untrusted network, such as the Internet.
+A firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules. A firewall typically establishes a barrier between a trusted network and an untrusted network, such as the Internet.
 
 ### OSI Model
 The Open Systems Interconnection (OSI) model describes seven layers that computer systems use to communicate over a network. It was the first standard model for network communications, adopted by all major computer and telecommunication companies in the early 1980s
